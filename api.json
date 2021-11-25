@@ -1,0 +1,122 @@
+[
+    {
+      "precio": 200000,
+      "id": 1,
+      "title": "Bolso Camping (Naranja)",
+      "thumbnailUrl": "https://greenforest.com.co/wp-content/uploads/2018/03/bolso-1-1.jpg"
+    },
+    {
+      "precio": 350000,
+      "id": 2,
+      "title": "Botas todo terreno (Hombre y Mujer)",
+      "thumbnailUrl": "https://apollo-virginia.akamaized.net/v1/files/crr6nvip5z5b2-CO/image"
+    },
+    {
+      "precio": 20000,
+      "id": 3,
+      "title": "Brújula",
+      "thumbnailUrl": "https://m.media-amazon.com/images/I/61Fl1556iOL._AC_SX425_.jpg"
+    },
+    {
+      "precio": 80000,
+      "id": 4,
+      "title": "Cuchillo (Edicion Black)",
+      "thumbnailUrl": "https://i.pinimg.com/474x/94/19/7d/94197d5033f7ad166539f9437b5161ad.jpg"
+    },
+    {
+      "precio": 100000,
+      "id": 5,
+      "title": "Hacha Personal",
+      "thumbnailUrl": "https://ae01.alicdn.com/kf/H86d377d8cf30497cad3050ec926bdebdZ/Herramienta-de-defensa-de-supervivencia-para-campamento-caza-al-aire-libre-hachas-hacha-para-incendios-manual.jpg_q50.jpg"
+    },
+    {
+      "precio": 200000,
+      "id": 6,
+      "title": "Hacha Leñador",
+      "thumbnailUrl": "https://static.stihl.com/upload/assetmanager/modell_imagefilename/scaled/zoom/311ef474009344a899f096a4532bf3b7.jpg"
+    },
+    {
+      "precio": 250000,
+      "id": 6,
+      "title": "Kukri (Cuchillo)",
+      "thumbnailUrl": "https://m.media-amazon.com/images/I/7106XARRxML._AC_SY355_.jpg"
+    },
+    {
+      "precio": 20000,
+      "id": 6,
+      "title": "Linterna",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/61NuaYLnm2L._SL1000_.jpg"
+    },
+    {
+      "precio": 90000,
+      "id": 6,
+      "title": "Machete",
+      "thumbnailUrl": "https://m.media-amazon.com/images/I/31+5u1klyZL._AC_SX425_.jpg"
+    },
+    {
+      "precio": 180000,
+      "id": 6,
+      "title": "Manilla Multiusos",
+      "thumbnailUrl": "https://tuestilo.moda/wp-content/uploads/2020/07/IMG_20200702_094743-1-scaled.jpg"
+    },
+    {
+      "precio": 60000,
+      "id": 6,
+      "title": "Navaja Mariposa",
+      "thumbnailUrl": "https://m.media-amazon.com/images/I/61DUWnHZfmL._AC_SX466_.jpg"
+    },
+    {
+      "precio": 95000,
+      "id": 6,
+      "title": "Navaja Multiusos",
+      "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ61DeGn3oUUWTptRJ9oSDS9P974cFPliCtw&usqp=CAU"
+    },
+    {
+      "precio": 80000,
+      "id": 6,
+      "title": "Navaja Automática",
+      "thumbnailUrl": "https://controltactico.com/wp-content/uploads/2021/07/17-navaja-autom-negra-bolsillo-ab.jpg"
+    },
+    {
+      "precio": 120000,
+      "id": 6,
+      "title": "Mini Pala",
+      "thumbnailUrl": "https://www.bellota.com/var/site/storage/images/_aliases/large/8/9/9/9/419998-1-esl-EU/5526.MAIN.png"
+    },
+    {
+      "precio": 75000,
+      "id": 6,
+      "title": "Pedernal (Cinco Barras)",
+      "thumbnailUrl": "https://m.media-amazon.com/images/I/618AX+TzcsL._AC_SX425_.jpg"
+    },
+    {
+      "precio": 75000,
+      "id": 6,
+      "title": "Piernera",
+      "thumbnailUrl": "https://masterbag.com.co/wp-content/uploads/2019/03/piernera-m120-1.png"
+    },
+    {
+      "precio": 50000,
+      "id": 6,
+      "title": "Soga",
+      "thumbnailUrl": "https://lh3.googleusercontent.com/proxy/U8OCC7Tb3IuU6OT3LouBEUMlc2BKrntFTA48eORbFk77z8P6ly3BOL08fp0CxK_YcKxQI4jOgG9dAKGR6hUbVLQGHm30z8in5rkVlA1z5_0RAEezFFrv76Db-0oqNh1k2YcIU_t6noW3gmv2AsqcO3v3XN1jiHLQDTeRikUjD5DP"
+    },
+    {
+      "precio": 1100000,
+      "id": 6,
+      "title": "Tienda de Campaña (Familiar)",
+      "thumbnailUrl": "https://d500.epimg.net/cincodias/imagenes/2021/05/07/companias/1620398399_998076_1620398517_noticia_normal.jpg"
+    },
+    {
+      "precio": 700000,
+      "id": 6,
+      "title": "Tienda de Campaña (Pequeña)",
+      "thumbnailUrl": "https://m.media-amazon.com/images/I/71X-u12buZL._AC_SX425_.jpg"
+    },
+    {
+      "precio": 30000,
+      "id": 6,
+      "title": "Mini olla de cocina",
+      "thumbnailUrl": "https://ae01.alicdn.com/kf/HTB1UJfLKf9TBuNjy1zbq6xpepXa0/MAXI-hombre-soltero-militar-de-la-caja-de-almuerzo-de-titanio-de-olla-taza-de-supervivencia.jpg"
+    }
+  ]
